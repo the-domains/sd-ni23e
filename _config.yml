@@ -1,0 +1,14 @@
+layout_spectrum: 0.5658265778329223
+typography_spectrum: 0.05957175116054714
+color:
+  brandStrength: 0.2084135941695422
+  lightness: 0.5502630304545164
+  saturation: 0.2893344252370298
+  rhythmicContrast: 0.6252378860954195
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: SD
