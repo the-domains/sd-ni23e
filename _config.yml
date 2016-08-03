@@ -10,6 +10,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+opengraph:
+  appId: sdragnea@gmail.com
 layout_spectrum: 0.5658265778329223
 name: SD
 title: seb
