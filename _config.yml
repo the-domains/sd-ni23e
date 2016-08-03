@@ -6,9 +6,10 @@ color:
   saturation: 0.2893344252370298
   rhythmicContrast: 0.6252378860954195
   brandColors:
-    - '#430C12'
-    - '#107380'
-    - '#F03A32'
-    - '#23B9CA'
-    - '#FFFEFF'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: SD
+description: one pixel @ the time
